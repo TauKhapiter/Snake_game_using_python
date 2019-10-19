@@ -70,4 +70,4 @@ while key != 27:                                                   # While Esc k
 
 curses.endwin()
 print("\nScore - " + str(score))
-print("http://bitemelater.in\n")        # Increases the speed of Snake as its length increases
+print("https:\\github.com/taukhapiter\n")        # Increases the speed of Snake as its length increases
